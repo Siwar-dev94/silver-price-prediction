@@ -3,6 +3,8 @@
 ##  Description
 This project focuses on predicting silver prices using multiple Machine Learning and Deep Learning models.
 
+##  Dataset
+The dataset used for this project is available in the `data/` folder.
 ##  Models Used
 - Random Forest
 - XGBoost
